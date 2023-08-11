@@ -1,3 +1,5 @@
 title: Ahmad Nanda Yuma Rafi
+#logo: /profile.png
+#description: Passionate data science student who loves transforming raw data into meaningful insights. Currently exploring the fascinating realms of machine learning, statistical analysis, and data visualization. Eager to learn, collaborate, and contribute to projects that unravel the potential of data.
 show_downloads: True
-theme:jeky-theme-minimal
+theme:jekyll-theme-minimal
